@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Fundamentl_subs</string>
+    <string name="u_name">Username</string>
+    <string name="name">Nama</string>
+    <string name="pp_avatar">Avatar</string>
+    <string name="git_followers">Followers</string>
+    <string name="git_following">Following</string>
+    <string name="git_location">Location</string>
+    <string name="git_company">Company</string>
+    <string name="git_repo">Repository</string>
+    <string name="favourite">Favourite</string>
+
+    <string-array name="pp_avatar">
+        <item>@drawable/welshrarebit_sandwhich</item>
+        <item>@drawable/tombik</item>
+        <item>@drawable/sloppyjow_sandwhich</item>
+        <item>@drawable/sandwhich_de_lomo</item>
+        <item>@drawable/pattymelt_sandwhich</item>
+        <item>@drawable/muffulwetta</item>
+        <item>@drawable/meatball_sandwhich</item>
+        <item>@drawable/egg_sandwhich</item>
+        <item>@drawable/chivito</item>
+        <item>@drawable/bocadillo_sandwhich</item>
+    </string-array>
+
+    <string-array name="u_name">
+        <item>Welsh Rarebit</item>
+        <item>Tombit</item>
+        <item>Sloppy Joe</item>
+        <item>Sandwhich de Lomo</item>
+        <item>Pattymelt</item>
+        <item>Muffuletta</item>
+        <item>Meatball Sandwhich</item>
+        <item>Egg Sandwhich</item>
+        <item>Chivito</item>
+        <item>Bocadillo Sandwhich</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Reynold Surya</item>
+        <item>Damian aditya</item>
+        <item>Sigit Triyadi</item>
+        <item>Muhammad zulkii</item>
+        <item>Denis hajik</item>
+        <item>Sandy baskara</item>
+        <item>Devaldo Albertus</item>
+        <item>James ma</item>
+        <item>Lewis hu</item>
+        <item>Robbie chieng</item>
+    </string-array>
+
+    <string-array name="git_company">
+        <item>PT. Freeport Indoesia</item>
+        <item>Tokopedia</item>
+        <item>Gojek</item>
+        <item>Traveloka</item>
+        <item>Jobstreet.com</item>
+        <item>GDP Labs</item>
+        <item>JD.com Sr Engineering</item>
+        <item>Supercell Beijing</item>
+        <item>Activision Blizzard</item>
+        <item>Bottle Cap Std</item>
+    </string-array>
+
+    <string-array name="git_followers">
+        <item>1234</item>
+        <item>4321</item>
+        <item>5678</item>
+        <item>98765</item>
+        <item>34</item>
+        <item>567</item>
+        <item>134</item>
+        <item>231</item>
+        <item>534</item>
+        <item>1032</item>
+    </string-array>
+
+    <string-array name="git_following">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+        <item>9</item>
+        <item>11</item>
+        <item>32</item>
+        <item>26</item>
+        <item>19</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="git_location">
+        <item>D.I Yogyakarta, Indonesia </item>
+        <item>Bandung, Indonesia</item>
+        <item>Surabaya, Indonesia</item>
+        <item>Semarang, Indonesia</item>
+        <item>Solo, Indonesia</item>
+        <item>Makassar, Indonesia</item>
+        <item>Singapura</item>
+        <item>Kuala Lumpur, Malaysia</item>
+        <item>George Town, Malaysia</item>
+        <item>Auckland, New Zealand</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>22</item>
+        <item>32</item>
+        <item>23</item>
+        <item>60</item>
+        <item>123</item>
+        <item>7</item>
+        <item>12</item>
+        <item>45</item>
+        <item>98</item>
+        <item>102</item>
+    </string-array>
+
+
+</resources>
+
